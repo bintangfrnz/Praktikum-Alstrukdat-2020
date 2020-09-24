@@ -3,7 +3,7 @@
  * Nama      : Bintang Fajarianto
  * Tanggal   : 03 September 2020
  * Praktikum : 2
- * Soal		 : 2
+ * Soal      : 2
  */
 
 // File: garis.c
