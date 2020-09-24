@@ -3,7 +3,7 @@
  * Nama      : Bintang Fajarianto
  * Tanggal   : 03 September 2020
  * Praktikum : 2
- * Soal		 : 3
+ * Soal      : 3
  */
 
 // File: vector.c
