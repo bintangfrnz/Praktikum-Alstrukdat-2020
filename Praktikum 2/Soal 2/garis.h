@@ -27,6 +27,7 @@ void MakeGARIS (POINT P1, POINT P2, GARIS * L);
 /* F.S. L terdefinisi dengan L.PAw = P1 dan L.PAkh = P2 */
 /* Membentuk sebuah L dari komponen-komponennya */
 
+
 /* ***************************************************************** */
 /* KELOMPOK INTERAKSI DENGAN I/O DEVICE, BACA/TULIS                  */
 /* ***************************************************************** */
@@ -51,6 +52,7 @@ void TulisGARIS (GARIS L);
    tanpa tambahan karakter apa pun di depan, di tengah, atau di belakang,
    termasuk spasi dan enter */
 
+
 /* *** Kelompok operasi garis *** */
 float PanjangGARIS (GARIS L); 
 /* Menghitung panjang garis L : berikan rumusnya */
@@ -62,6 +64,7 @@ void GeserGARIS (GARIS * L, float deltaX, float deltaY);
 /* I.S. L terdefinisi */
 /* F.S. L digeser sebesar deltaX ke arah sumbu X dan sebesar deltaY ke arah sumbu Y */
 /* Proses : PAw dan PAkh digeser. */
+
 
 /* *** Kelompok predikat *** */
 boolean IsTegakLurus (GARIS L1, GARIS L2);
